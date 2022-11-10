@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 sealandbestland was not here >:D funni moment
+=======
+sealandbestland editied this file
+>>>>>>> fbd7a2a (updated by me)
